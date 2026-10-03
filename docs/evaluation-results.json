@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-03T03:58:25.415Z",
+  "tests": 38,
+  "passed": 38,
+  "failed": 0,
+  "scope": "Synthetic scenarios; AI and Meta providers mocked. No live customer or field accuracy claims.",
+  "categories": [
+    "Buyer confirmation and source evidence",
+    "Catalog and health claim boundaries",
+    "Opt out and human handoff",
+    "Webhook signing, replay and upload limits",
+    "Messaging windows and provider failures"
+  ]
+}

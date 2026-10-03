@@ -1,0 +1,26 @@
+{
+  "checks": 20,
+  "passed": [
+    "unauthenticated API blocked",
+    "authenticated persistent workspace seeded",
+    "cross origin mutation blocked",
+    "new enquiry stored",
+    "answer persisted: quantity",
+    "answer persisted: sizes",
+    "answer persisted: fabric",
+    "answer persisted: customization",
+    "answer persisted: market",
+    "answer persisted: location",
+    "answer persisted: deadline",
+    "answer persisted: payment",
+    "confirmation and followup permission persisted",
+    "correction revokes permission",
+    "unsigned webhook blocked",
+    "unsigned delivery job blocked",
+    "local digest saved",
+    "digest survives state reload",
+    "story deletion works",
+    "test enquiry deletion works"
+  ],
+  "scope": "Local runtime with fictional data. No live Meta or OpenAI connection."
+}
